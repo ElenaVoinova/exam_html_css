@@ -761,7 +761,7 @@
 }
 
 
-@media (max-width: 385px) {
+@media (max-width: 321px) {
     #nav__toggle:checked ~ .header__list {
         min-width: 200px;
     }

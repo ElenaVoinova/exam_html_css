@@ -237,7 +237,7 @@ li {
     min-height: 900px;
     padding: 220px 40px 250px 40px;
 
-    background-image: url('image/img-bg.png');
+    background-image: url('/image/img-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

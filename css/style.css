@@ -112,7 +112,7 @@ li {
 .stars__item_rating {
     display: block;
 
-    background-image: url('image/testimonial_star_yellow.png');
+    background-image: url('/image/testimonial_star_yellow.png');
     width: 23px;
     height: 21px;
 }

@@ -88,7 +88,7 @@ li {
     width: 38px;
     height: 38px;
 
-    background-image: url('/image/arrow.png');
+    background-image: url('image/arrow.png');
     background-color: #335b6b;
     background-repeat: no-repeat;
     background-position: center;
@@ -103,7 +103,7 @@ li {
 }
 
 .stars__item {
-    background-image: url('/image/ico_star.png');
+    background-image: url('image/ico_star.png');
 
     width: 15px;
     height: 14px;
@@ -112,7 +112,7 @@ li {
 .stars__item_rating {
     display: block;
 
-    background-image: url('/image/testimonial_star_yellow.png');
+    background-image: url('image/testimonial_star_yellow.png');
     width: 23px;
     height: 21px;
 }
@@ -135,7 +135,7 @@ li {
     padding: 14px;
 
     background-color: #274c5b;
-    background-image: url('/image/ico_toogle.png');
+    background-image: url('image/ico_toogle.png');
     background-repeat: no-repeat;
 	background-size: 28px 28px;
 	background-position: center;
@@ -221,7 +221,7 @@ li {
     height: 56px;
 
     background-color: #274c5b;
-    background-image: url('/image/basket.png');
+    background-image: url('image/basket.png');
     background-repeat: no-repeat;
     background-position: center center;
 
@@ -237,7 +237,7 @@ li {
     min-height: 900px;
     padding: 220px 40px 250px 40px;
 
-    background-image: url('/image/img-bg.png');
+    background-image: url('image/img-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -302,11 +302,11 @@ li {
 }
 
 .offers__content_img_left {
-    background-image: url('/image/offers_left.png');
+    background-image: url('image/offers_left.png');
 }
 
 .offers__content_img_right {
-    background-image: url('/image/offers_right.png');
+    background-image: url('image/offers_right.png');
 }
 
 .offers__block {
@@ -522,7 +522,7 @@ li {
 
 .testimonial__container {
     padding: 130px;
-    background-image: url('/image/testimonial_bg_left.png'), url('/image/testimonial_bg_right.png');
+    background-image: url('image/testimonial_bg_left.png'), url('/image/testimonial_bg_right.png');
     background-repeat: no-repeat;
     background-position: left, right;
     background-color: #fcfcfc;
@@ -768,7 +768,7 @@ li {
     align-items: center;
     justify-content: space-between;
 
-    background-image: url('/image/subscribe_img.png');
+    background-image: url('image/subscribe_img.png');
     background-repeat: no-repeat;
     background-size: cover;
 
